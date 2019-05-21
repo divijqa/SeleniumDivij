@@ -22,12 +22,12 @@ public class Login {
 		
 		// enter the user name
 		
-		dr.findElement(By.name("email")).sendKeys("divij.chinnu@gmail.com");
+		dr.findElement(By.name("email")).sendKeys("XXXXX.XXXX@gmail.com");
 		Thread.sleep(3000);
 		
 		// enter the password
 		
-		dr.findElement(By.id("pass")).sendKeys("Dd*37005");
+		dr.findElement(By.id("pass")).sendKeys("XXXXXXXX");
 		Thread.sleep(3000);
 		
 		//click on login button
